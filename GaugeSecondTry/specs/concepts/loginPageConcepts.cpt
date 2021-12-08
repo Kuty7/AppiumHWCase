@@ -1,0 +1,16 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Giriş sayfasının açıldığı kontrol edilir.
+* Control "com.ozdilek.ozdilekteyim:id/btnLogin"'s existance
+
+# Kullanıcı adı ve şifre değerleri girilir.
+* Send "kuty" using id to "com.ozdilek.ozdilekteyim:id/etEposta"
+* Send "password" using id to "com.ozdilek.ozdilekteyim:id/etPassword"
+* Wait for "2" seconds.
+
+# İki kere geri butonuna basılır.
+* Click the element using id : "com.ozdilek.ozdilekteyim:id/ivBack"
+* Wait for "2" seconds.
+* Click the element using id : "com.ozdilek.ozdilekteyim:id/ivBack"
+* Wait for "2" seconds.

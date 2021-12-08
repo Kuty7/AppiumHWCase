@@ -1,0 +1,14 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Sayfanın aşağısına doğru iki kez scroll edilir ve rastgele bir ürün seçilir.
+* Swipe to bottom
+* Swipe to bottom
+* Wait for "2" seconds.
+* Select a random product between "4" elements
+* Wait for "2" seconds.
+* Control "com.ozdilek.ozdilekteyim:id/imgFav"'s existance
+
+# Rastgele bir ürün seçilir.
+* Select a random product between "4" elements
+* Wait for "2" seconds.

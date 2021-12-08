@@ -1,0 +1,12 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Özdilekteyim uygulaması açılır ve uygulamanın açıldığı kontrol edilir.
+* Wait for "5" seconds.
+* Control "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"'s existance
+
+# Alışverişe başla butonu tıklanır ve alışveriş sayfasının açıldığı kontrol edilir.
+* Click the element using id : "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"
+* Wait for "2" seconds.
+* Control "com.ozdilek.ozdilekteyim:id/nav_categories"'s existance
+

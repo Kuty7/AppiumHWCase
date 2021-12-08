@@ -1,0 +1,11 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Ürün detaylarının açıldığı kontrol edilir ve favorilere eklenir.
+* Wait for "2" seconds.
+* Click the element using id : "com.ozdilek.ozdilekteyim:id/imgFav"
+* Wait for "2" seconds.
+
+# Seçilen ürün sepete eklenir.
+* Click the element using id : "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn"
+* Wait for "5" seconds.
